@@ -1,0 +1,2 @@
+# favicon
+appfavicon1
